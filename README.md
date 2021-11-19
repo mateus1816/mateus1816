@@ -9,7 +9,7 @@
   <p dir="auto"> - Eu sou o Mateus, sou apaixonado por tecnologia.</p>
   <p dir="auto"> - Formado em analise e desenvolvimento de sistemas.</p>
   <p dir="auto"> - Buscando me tornar desenvolvedor backend.</p>
-  <p dir="auto"> - Experiencia em Java, Spring boot, MySQL, MongoDB, HTML, CSS, TypeScript, React. </p>
+  <p dir="auto"> - Experiencia em Java, Spring boot, MySQL, MongoDB, HTML, CSS, TypeScript, ReactJS. </p>
   <p dir="auto"> - Atualmente focado em Java.</p>
 </div>
 
